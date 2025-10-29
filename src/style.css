@@ -161,3 +161,12 @@ footer {
   font-size: 0.9rem;
   margin-top: 50px;
 }
+
+.meeting-info {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 6px;
+  text-align: right; /* ✅ only this line right-aligns the text */
+  width: 100%;       /* ensures alignment spans under the button width */
+}
+
