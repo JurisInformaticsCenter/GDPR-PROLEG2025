@@ -162,3 +162,7 @@ footer {
   margin-top: 50px;
 }
 
+.subtext a {
+  color: inherit;
+  text-decoration: none;
+}
